@@ -1,1 +1,1 @@
-# Mtech-Project-6th-Sem-
+This is the minor project of my M.tech 6th sem course. The task is to prepare an e-documentation of website of DC(Development centre) of my college(IIPS,DAVV,Indore). For this purpose the first task is to understand the system and preparing a SRS(software requirement specification) for that.

@@ -1,1 +1,1 @@
-This is an initialisation for my minor project of 6th semester.The project is to prepare an e-documentation of MIS(Management Information System) for the Development Center of our institute(IIPS,DAVV,Indore).
+This is an initialisation for my minor project of 6th semester.The project is to prepare an e-documentation of MIS(Management Information System) for the Development Center of our institute(IIPS,DAVV,Indore) so that it can be a way for other s/w developers to understand the system in an efficient manner.
